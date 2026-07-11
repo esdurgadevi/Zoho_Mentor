@@ -97,3 +97,54 @@ public class Solution{
     }
 }
 ```
+
+
+
+
+
+
+
+# C/C++ Output Prediction Questions
+
+A well-organized collection of C/C++ output prediction, pointers,
+strings, loops, control flow, structures, unions, arrays, functions,
+macros, and miscellaneous interview questions.
+
+> **Note:** The technical content is preserved. This file focuses on
+> improving readability and GitHub presentation.
+
+## Table of Contents
+
+-   Pointers
+-   Strings
+-   Loops
+-   Complex and Nested Loops
+-   Control Flows
+
+------------------------------------------------------------------------
+
+## Questions
+
+> Paste the original questions here. The formatting style should be:
+
+### Question N
+
+``` c
+// code
+```
+
+**Output**
+
+``` text
+...
+```
+
+**Explanation**
+
+-   Point 1
+-   Point 2
+
+------------------------------------------------------------------------
+
+Repeat for all questions.
+
